@@ -1,5 +1,0 @@
-{
-    "data_path": "data/iris.csv",
-    "target_column": "species",
-    "model_save_path": "models/random_forest_model.joblib"
-}

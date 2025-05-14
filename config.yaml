@@ -1,0 +1,5 @@
+data_path: data/iris.csv
+target_column: species
+model_output: models/random_forest_model.joblib
+test_size: 0.2
+random_state: 42
