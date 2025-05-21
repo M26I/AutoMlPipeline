@@ -57,6 +57,11 @@ Dataset Requirement: The dataset must have a target column for the pipeline to p
 👤 **Author**
 [M26I](https://github.com/M26I)
 
+---
+© 2025 Your M26I – For educational/portfolio use only.  
+Unauthorized use or redistribution without credit is prohibited.
+
+
 
 
 

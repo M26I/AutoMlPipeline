@@ -1,3 +1,5 @@
+# © 2025 M26I - For educational/portfolio use only
+
 from pipeline.load_data import load_data
 from pipeline.preprocess import preprocess_data
 from pipeline.train_model import train_model
